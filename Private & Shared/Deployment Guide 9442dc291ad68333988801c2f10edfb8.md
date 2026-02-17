@@ -1,10 +1,4 @@
-# Deployment Guide
-
----
-
----
-
-## New Pages
+## Deployment Guide
 
 ### Introduction
 
