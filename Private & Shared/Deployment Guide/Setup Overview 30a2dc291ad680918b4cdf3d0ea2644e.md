@@ -8,12 +8,12 @@ Because the setup is performed in an offline environment, special attention is g
 
 This are the followings steps we will follow to setup our linux server 
 
-[Installation of Python ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Installation%20of%20Python)
+[Installation of Python ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20&%20Shared/Deployment%20Guide/Installation_of_Python.md)
 
 [Installation of Docker ](Setup%20Overview/Installation%20of%20Docker%2030a2dc291ad6806692f4c2e3a67f4277.m)
 
-[Initialize Third Party Services ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Initialize%20Third%20Party%20Services)
+[Initialize Third Party Services ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Initialize_Third_Party_Services.md)
 
-[Instrument Registered in Redis ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Instrument_Registered_in_Redis)
+[Instrument Registered in Redis ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Instrument_Registered_in_Redis.md)
 
-[Setting Up Blitz-GateWay](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Blitz_Gateway_setup)
+[Setting Up Blitz-GateWay](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Blitz_Gateway_setup.md)
