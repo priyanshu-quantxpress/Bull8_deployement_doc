@@ -12,7 +12,7 @@ This module is responsible for:
 It is designed to be run as a **CLI application** and can be safely re-run multiple times per day.
 
 # InstrumentsRegisterInRedis — Folder Structure
-
+```
 `InstrumentsRegisterInRedis/
 │
 ├── application.py                # Main CLI entry point
@@ -50,6 +50,8 @@ It is designed to be run as a **CLI application** and can be safely re-run multi
 │
 ├── __pycache__/
 └── .gitignore`
+
+```
 
 ## File Descriptions
 
