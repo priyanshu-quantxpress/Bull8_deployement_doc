@@ -1,12 +1,9 @@
-# Installation of Python
+## Installation of Python
 
 ## 1. Setting Up Python on a Linux Server (Offline Installation)
 
 This guide explains how to install **Python 3.10.14** on a Linux server that **does not have internet access**. The installation is performed by downloading the required files on a Windows machine with internet connectivity and then transferring them to the Linux server.
-
----
-
-## Phase 1 — Download on Windows (Internet Machine)
+### Phase 1 — Download on Windows (Internet Machine)
 
 1. Open your browser.
 2. Go to the official Python downloads page:
@@ -27,7 +24,7 @@ Python-3.10.14.tgz
 
 ---
 
-## Phase 2 — Transfer Files to the Linux Server
+### Phase 2 — Transfer Files to the Linux Server
 
 Using **WinSCP** (or similar file transfer tool):
 
@@ -40,7 +37,7 @@ Using **WinSCP** (or similar file transfer tool):
 
 ---
 
-## Phase 3 — Build and Install Python on Linux
+### Phase 3 — Build and Install Python on Linux
 
 Login to the Linux server using **PuTTY** (SSH).
 
