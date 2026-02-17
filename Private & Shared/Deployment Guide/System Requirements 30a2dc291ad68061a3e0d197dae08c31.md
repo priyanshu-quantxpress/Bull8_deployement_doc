@@ -4,6 +4,6 @@ This section defines the **system requirements** needed to successfully install,
 
 The system requirements include both **hardware specifications** (such as CPU, RAM, storage, and network capability) and **software prerequisites** (such as operating system version, dependencies, packages, and tools). Meeting these requirements helps avoid installation issues, performance bottlenecks, and compatibility problems during deployment and ongoing operations
 
-[Hardware Requirements ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Hardware%20Requirments)
+[Hardware Requirements ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/HardwareRequirments.md)
 
-[software Requirements ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Software%20Requirements)
+[software Requirements ](https://github.com/priyanshu-quantxpress/Bull8_deployement_doc/blob/main/Private%20%26%20Shared/Deployment%20Guide/Software_Requirements.md)
